@@ -1,7 +1,5 @@
 {
 	"project_name": "my-project",
 	"module_name": "{{ cookiecutter.project_name | replace('-', '_') }}",
-	"command_name": "{{ cookiecutter.project_name }}",
-	"full_name": "Firstname Lastname",
-	"email": "firstname.lastname@domain.org"
+	"command_name": "{{ cookiecutter.project_name }}"
 }

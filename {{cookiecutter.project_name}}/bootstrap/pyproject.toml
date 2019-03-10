@@ -3,7 +3,7 @@ name = "{{cookiecutter.module_name}}"
 # this is a fake/unused version
 version = "0.1.0"
 description = ""
-authors = ["{{cookiecutter.full_name}} <{{cookiecutter.email}}>"]
+authors = ""
 
 [tool.poetry.dependencies]
 python = ">=3.5"
